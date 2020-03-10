@@ -1,0 +1,3 @@
+rootProject.name='CardDetection'
+include ':app'
+include ':openCVLibrary349'
